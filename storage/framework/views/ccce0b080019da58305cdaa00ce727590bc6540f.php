@@ -119,11 +119,9 @@
     <footer class="footer footer-static footer-light">
         <p class="clearfix mb-0">
             <span class="float-md-start d-block d-md-inline-block mt-25">
-                <?php echo e(trans('common.madeBy')); ?>
-
+                
                 <a class="ms-25" href="https://technomasr.com" target="_blank">
-                    <?php echo e(trans('common.TechnoMasrCo.')); ?>
-
+                    
                 </a>
                 <!-- <span class="d-none d-sm-inline-block">, All rights Reserved</span> -->
             </span>
